@@ -1,5 +1,6 @@
 #include "holberton.h"
 #include <stdio.h>
+#include "main.h"
 /**
  * set_string - redirect.
  * @s: double pointer to address
